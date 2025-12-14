@@ -2,4 +2,5 @@ Name of model,Description,RMSE,Amount of epochs
 Ridge Regression, -, 0.1305, -
 FNN, -, 0.0958, 100
 WaveNet, -, 0.0930, 20
+WaveNet (Optimized), Optimized, 0.0893, 45
 LSTM, Stored scale, 0.1647, 10
