@@ -55,6 +55,7 @@ The evaluation is organized across multiple Jupyter notebooks, each focusing on 
 ## Results
 
 *TODO* 
+Also mention: the models all performed significantly better than both the t-1 and the MA as a naive baseline. 
 
 ### Model Performance Comparison
 
