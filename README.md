@@ -58,7 +58,7 @@ The evaluation is organized across multiple Jupyter notebooks, each focusing on 
 
 ### Model Performance Comparison
 
-![Model Performance Comparison](model_performance.png)
+![Model Performance Comparison](performance.png)
 
 *The plot compares the Root Mean Square Error (RMSE) of Ridge Regression, Feedforward Neural Network, LSTM, WaveNet and the fine-tuned WaveNet models. WaveNet achieves the lowest error, demonstrating superior performance on next-day precipitation prediction.*
 
