@@ -29,20 +29,15 @@ The evaluation is organized across multiple Jupyter notebooks, each focusing on 
 
 - **`RidgeRegression.ipynb`**  
   - Baseline linear model with L2 regularization  
-  - Serves as a low-complexity, energy-efficient reference model  
 
 - **`Feed_Forward_NN.ipynb`**  
   - Multilayer Perceptron (FNN)  
-  - Evaluation of non-linear relationships without temporal memory  
 
 - **`LSTM.ipynb`**  
   - Recurrent Neural Network with Long Short-Term Memory  
-  - Captures sequential dependencies in meteorological time series  
-  - Multiple architectures and epoch settings evaluated  
 
 - **`WaveNet.ipynb`**  *- best performance of all models*
   - Convolutional neural network with causal and dilated convolutions  
-  - Designed to model long-range temporal dependencies efficiently  
   - Includes model finetuning and architectural optimization  
 
 - **`plot_model_performance.ipynb`**  
